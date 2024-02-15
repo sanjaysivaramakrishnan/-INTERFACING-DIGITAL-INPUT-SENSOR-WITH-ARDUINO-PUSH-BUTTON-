@@ -1,8 +1,8 @@
 ![image](https://github.com/sanjaysivaramakrishnan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/151629616/e734e624-75ec-400b-8aaa-7a97170c0235)## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :
-## NAME :																			             
-## ROLLNUMBER :
-## DEPARTMENT 
+## DATE : 15.02.2024
+## NAME : SANJAY SIVARAMAKRISHNAN M																			             
+## ROLLNUMBER :23013798
+## DEPARTMENT AIML
 
 
 ## AIM:
