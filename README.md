@@ -50,11 +50,7 @@ FIGURE-02
 
 
 ## CIRCUIT DIAGRAM 
-
-
-![image](https://github.com/sanjaysivaramakrishnan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/151629616/be4f3512-2f26-4072-8de7-d867dfb4b50b)
-
-
+![Screenshot 2024-02-15 112208](https://github.com/sanjaysivaramakrishnan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/151629616/5dc7d137-819a-4a1b-8aa4-7f42e3027a7a)
 
 FIGURE -03
 
