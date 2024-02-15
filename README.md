@@ -62,7 +62,7 @@ FIGURE -03
 
 
 ## PROGRAM 
- 
+ ~~~
 int led=4;
 int push=3;
 
@@ -91,7 +91,7 @@ else
   digitalWrite(led,LOW);
 }
 }
- 
+~~~
 
 
 
